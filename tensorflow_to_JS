@@ -1,3 +1,3 @@
-tensorflowjs_converter --input_format=keras /home/user/AI_World/AI_Projects/masksdetection_master/model/mask_model.h5 /home/user/AI_World/AI_Projects/masksdetection_master/model
+tensorflowjs_converter --input_format=keras /home/user/AI_World/AI_Projects/masksdetection/model/mask_model.h5 /home/user/AI_World/AI_Projects/masksdetection/model
 
 sudo npm install -g firebase-tools to install firebase on terminal
