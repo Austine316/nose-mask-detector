@@ -1,5 +1,5 @@
 # nose_mask_detector
-For the covid 19 safety precautions and measures, this detects if you're putting on a nose mask or not. Link [here](https://austine316.github.io/nose_mask_detector/
+For the covid 19 safety precautions and measures, this detects if you're putting on a nose mask or not. See demo [here](https://austine316.github.io/nose_mask_detector/
 )
 
 ![plot](https://user-images.githubusercontent.com/77448406/145830542-6d2b7615-5a37-494c-87d5-0bacee0fb33b.png)
